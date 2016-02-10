@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android-Studio\MSAttackCz\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\Android-Studio\MSAttackCz\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-9f163eefbf59cd513325f991bbe0701ad7378c3d.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\pre-dexed\debug\classes-6d45a1339e4abbc8e36619e4d61d22a7744bdd6f.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio\MSAttackCz\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\Android-Studio\MSAttackCz\app\build\intermediates\pre-dexed\debug\classes-c00f5a9e503d102212c52aba59eb3088a26a1488.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\pre-dexed\debug\classes-f9dd7134cf22bd8d796e22239a4e38c95a951a56.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio\MSAttackCz\app\libs\acra-4.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
+        <dex dex="D:\Android-Studio\MSAttackCz\app\build\intermediates\pre-dexed\debug\acra-4.5.0-5ccb51edfb4b7dccf13d001f9afb6db4729fcbb7.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\exploded-aar\MSAttackCzM\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3ddb2b87b5dcbd278b923c8f805f27dd8ec60729">
+        <dex dex="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\pre-dexed\debug\classes-cad14aebc494c8d81e8e7e12a9dd1ec75b732583.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio\MSAttackCz\app\build\intermediates\exploded-aar\MSAttackCz\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cc2a6cc0eaff57143081d372c039c1a298a08a74">
+        <dex dex="D:\Android-Studio\MSAttackCz\app\build\intermediates\pre-dexed\debug\classes-d3daa60885850c9d8234ca79e69fd219121ef3ef.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-afbea92aa1512a92460376427a85fa7f305439b3.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\pre-dexed\debug\classes-e511cd153e3240b657a31b4321a087ce010ea434.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio\MSAttackCz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Android-Studio\MSAttackCz\app\build\intermediates\pre-dexed\debug\classes-b72807878326664715436ff143bc72655bd0e28d.jar" />
+    </item>
+    <item
+        jar="C:\Users\milos\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\Android-Studio\MSAttackCz\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5-16a69b567b2fb7c24a670460a166621f32f33d6b.jar" />
+    </item>
+    <item
+        jar="D:\eclipse\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-bf054adb8342703efd35007f50ab8e8f87ce85fb.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio\MSAttackCz\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="D:\Android-Studio\MSAttackCz\app\build\intermediates\pre-dexed\debug\classes-c69853d52dffe73a78ee72da0912f03944ca647c.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\libs\acra-4.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44a5eb946e0d83eed4a0128d877ca1fd8168b83a">
+        <dex dex="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\pre-dexed\debug\acra-4.5.0-45accc44f7e4e8cc59a619930df8b01637086094.jar" />
+    </item>
+    <item
+        jar="C:\Users\milos\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.3\a85588bec3e2c4584d593d3f15df1677321bca72\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\Android-Studio\MaterialDesing\MSAttackCzM\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-0d04a204a133066d0bef45b26414319ec53a8cd5.jar" />
+    </item>
+
+</items>

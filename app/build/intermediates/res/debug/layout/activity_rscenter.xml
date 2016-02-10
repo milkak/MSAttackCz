@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="bg_parent_rounded_corner">
+
+    <include layout="@layout/toolbar" />
+
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listRScenter"
+        android:divider="#336699"
+        android:dividerHeight="1sp" />
+</LinearLayout><!-- From: file:/D:/Android-Studio/MSAttackCz/app/src/main/res/layout/activity_rscenter.xml -->

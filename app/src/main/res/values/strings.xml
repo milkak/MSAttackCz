@@ -1,0 +1,354 @@
+<resources>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+
+        <item >Nastavení</item>
+        <item >O aplikaci</item>
+
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_action_settings</item>
+        <item>@drawable/ic_action_about</item>
+    </array>
+
+
+    <string-array name="RS_centra">
+
+        <item >Neurologická klinika FN Plzeň - Alej Svobody 80, 304 60 Plzeň</item>
+        <item >Neurologické oddělení Nemocnice Teplice - Duchcovská 53, 415 29 Teplice</item>
+        <item >Neurologická klinika 2. LF UK a FN Motol - V Úvalu 84, 150 18 Praha 5 - Motol</item>
+        <item >Neurologická klinika 1. LF UK a VFN - Karlovo náměstí 32, 128 08 Praha 2</item>
+        <item >Neurologická klinika 3. LF UK a FNKV - Šrobárova 50, 100 54 Praha 10</item>
+        <item >Neurologická klinika FTNsP - Vídeňská 800, 140 59 Praha 4</item>
+        <item >eurologické oddělení KN - Boženy Němcové 54, 370 87 České Budějovice</item>
+        <item >Krajská nemocnice Jihlava - Vrchlického 59, 586 33 Jihlava</item>
+        <item >Neurologické oddělení KN Pardubice - Kyjevská 44, 532 03 Pardubice</item>
+        <item >Neurologická klinika FN Hradec Králové - Sokolská 581, 500 05 Hradec Králové</item>
+        <item >Neurologická klinika FN Brno - Jihlavská 20, 639 00 Brno-Bohunice</item>
+        <item >Neurologická klinika LF MU u sv. Anny Brno - Pekařská 53, 656 91 Brno</item>
+        <item >Neurologická klinika FN Olomouc - I. P. Pavlova 13, 775 20 Olomouc</item>
+        <item > Neurologické oddělení Baťovy nemocnice - Havlíčkovo nábř. 600, 762 75 Zlín</item>
+        <item>Neurologická klinika FN Ostrava - 17. listopadu 1790, 708 52 Ostrava-Poruba</item>
+
+
+
+    </string-array>
+
+
+
+
+    <string name="app_name">MSAttackCz</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="books">Bookmarks</string>
+    <string name="icon">icon</string>
+    <string name="efn">Enter File Name</string>
+    <string name="storage">Storage</string>
+    <string name="gallery">Gallery</string>
+    <string name="apps">App Manager</string>
+    <string name="bookmanag">Bookmarks Manager</string>
+    <string name="setting">Settings</string>
+    <string name="select">Select Item</string>
+    <string name="pressagain">Press  again to exit</string>
+    <string name="open">Open</string>
+    <string name="backup">Backup</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="play">Play store</string>
+    <string name="properties">Properties</string>
+    <string name="copyingapk">Copying apk to </string>
+    <string name="addbook">Add Bookmark</string>
+    <string name="addtobook">Add to Bookmark</string>
+    <string name="enterpath">Enter Path</string>
+    <string name="cancel">CANCEL</string>
+    <string name="create">CREATE</string>
+    <string name="success">Success</string>
+    <string name="filenotexists">File Not Exists</string>
+    <string name="error">Error</string>
+    <string name="cantlistfiles">Can\'t list files without root</string>
+    <string name="searchresults">Search Results</string>
+    <string name="itemsselected">Items Selected</string>
+    <string name="newhomedirectory">New Home Directory</string>
+    <string name="rename">Rename</string>
+    <string name="save">Save</string>
+    <string name="renameerror">Rename Unsuccessful</string>
+    <string name="renamed">Rename Successful</string>
+    <string name="bookmarksadded">Bookmarks Added</string>
+    <string name="fileexist">File with same name already exists </string>
+    <string name="filecreated">File Created</string>
+    <string name="searchpath">Search Path</string>
+    <string name="search">SEARCH</string>
+    <string name="enterfile">Enter File Name</string>
+    <string name="name">Name: </string>
+    <string name="date">Date: </string>
+    <string name="location">Located in: </string>
+    <string name="size">Size: </string>
+    <string name="totalitems">Total Items: </string>
+    <string name="enterzipname">Enter Zip Name</string>
+    <string name="noappfound">No App found to open this file</string>
+    <string name="copying">Copying</string>
+    <string name="moving">Moving</string>
+    <string name="add">Add</string>
+    <string name="tab">Tab</string>
+    <string name="file">File</string>
+    <string name="folder">Folder</string>
+    <string name="newfolder">New Folder</string>
+    <string name="entername">Enter Name</string>
+    <string name="extracting">Extracting</string>
+    <string name="about">O aplikaci</string>
+    <string name="about_app">MSAttackCz - roztroušená skleróza</string>
+    <string name="extract">Extract</string>
+    <string name="compress">Compress</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm">Confirm</string>
+    <string name="deleting">Deleting</string>
+    <string name="questiondelete">Do you really want to delete following files?</string>
+    <string name="viewmode">View Mode</string>
+    <string name="uimode">UI Mode</string>
+    <string name="directorysort">Directory Sort Mode</string>
+    <string name="sortby">Sort By</string>
+    <string name="theme">Theme</string>
+    <string name="skin">Skin</string>
+    <string name="random">Random Skin</string>
+    <string name="random_summary">Sets random theme at startup</string>
+    <string name="colorize">Colorize Icons</string>
+    <string name="colorize_summary">Sets static icon color</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="paste">Paste</string>
+    <string name="close">Zavřít</string>
+    <string name="history">History</string>
+    <string name="refresh">Refresh</string>
+    <string name="copy">Copy</string>
+    <string name="rootmode">Root Explorer</string>
+    <string name="rootmodesummary">For rooted device only. Check it only if you are sure about it.</string>
+    <string name="mountsystemsummary">Enable this if you want to edit System Files</string>
+    <string name="mountsystem">Mount System Folders as Writable</string>
+    <string name="rootfailure">Root Access not granted</string>
+    <string name="cut">Cut</string>
+    <string name="selectall">Select All</string>
+    <string name="delete">Delete</string>
+    <string name="setashome"> Set As Home Folder</string>
+    <string name="sethome">Set Home Directory</string>
+    <string name="foldercolor">Folder Color</string>
+    <string name="imagegallery">Image Gallery</string>
+    <string name="fileexplorer">File Explorer</string>
+    <string name="changegallerypath">Change Gallery Path</string>
+    <string name="usedefaultgallerypath">Use Default Image Gallery Path</string>
+
+    <string name="app_popis">Účelem této aplikace není  auto diagnostika , ale  použítí jako osobní nelékařské pomoci.
+                            Eventuelní požádaní o lékařskou pomoc od ošetřujícího neurologa , pokud je to nezbytné.
+    </string>
+    <string name="action_splash">MSAttackCz - roztroušená skleróza</string>
+
+
+    <!-- UI -->
+    <string name="simple">Simple UI</string>
+    <string name="card">Card UI</string>
+    <!-- Theme -->
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="daytime">Daytime</string>
+    <!--Skin-->
+    <string name="red">Red</string>
+    <string name="pink">Pink</string>
+    <string name="purple">Purple</string>
+    <string name="deep_purple">Deep Purple</string>
+    <string name="indigo">Indigo</string>
+    <string name="blue">Blue</string>
+    <string name="light_blue">Light Blue</string>
+    <string name="cyan">Cyan</string>
+    <string name="teal">Teal</string>
+    <string name="green">Green</string>
+    <string name="light_green">Light Green</string>
+    <string name="amber">Amber</string>
+    <string name="orange">Orange</string>
+    <string name="deep_orange">Deep Orange</string>
+    <string name="brown">Brown</string>
+    <string name="black">Black</string>
+    <string name="blue_grey">Blue Grey</string>
+    <string name="supersu">SuperSU</string>
+    <!--DirectorySortMode-->
+    <string name="foldersOnTop">Folders On Top</string>
+    <string name="filesOnTop">Files On Top</string>
+    <string name="noneOnTop">None On Top</string>
+    <!--SortBy-->
+    <string name="sortName">Name</string>
+    <string name="lastModified">Last Modified</string>
+    <string name="sortSize">Size</string>
+    <string name="sortNameDesc">Name (Desc)</string>
+    <string name="lastModifiedDesc">Last Modified (Desc)</string>
+    <string name="sortSizeDesc">Size (Desc)</string>
+    <!--ListMode-->
+    <string name="detailedView">Detailed View</string>
+    <string name="simpleView">Simple View</string>
+    <!--Folder-->
+    <string name="Yellow">Yellow</string>
+    <string name="pick_a_file">Pick a file</string>
+    <string name="process_viewer">Process Viewer</string>
+    <string name="in_safe">Insufficient space</string>
+    <string name="no_file_overwrite">No File Overwritten</string>
+    <string name="skip">Skip</string>
+    <string name="overwrite">Overwrite</string>
+    <string name="cant_read_file">Can\'t read file</string>
+    <string name="not_allowed">Not Allowed</string>
+    <string name="processes">Processes</string>
+    <string name="searching">Searching</string>
+    <string name="copying_fles">Copying Files</string>
+    <string name="done">Done</string>
+    <string name="Extracting_fles">Extracting Files</string>
+    <string name="Zipping_fles">Zipping Files</string>
+    <string name="items">Items</string>
+    <string name="set">Set</string>
+    <string name="enablerootmde">Enable Root Mode</string>
+    <string name="goback">Go Back</string>
+    <string name="foldercreated">Folder Created</string>
+    <string name="newfile">New File</string>
+    <string name="nofiles">No Files</string>
+    <string name="tapnhold">Tap and hold on a File or Folder for more options</string>
+    <string name="pathcopied">Path copied to clipboard</string>
+    <string name="used">Used :  </string>
+    <string name="free">Free :  </string>
+    <string name="atroot">You are at the root</string>
+    <string name="listview">List View</string>
+    <string name="gridview">Grid View</string>
+    <string name="setlistview">Setting ListView</string>
+    <string name="setgridview">Setting GridView</string>
+    <string name="permission">Permissions</string>
+    <string name="hide">Hide</string>
+    <string name="exit">Exit</string>
+    <string name="enternewname">Enter new name</string>
+    <string name="doforall">Do for all items</string>
+    <string name="gridcolumnno">Number of columns in grid view</string>
+    <string name="randomDialog">Random</string>
+    <string name="setRandom">Changes will take place after you restart the app</string>
+    <string name="authors">Authors</string>
+    <string name="changelog">Changelog</string>
+    <string name="fullChangelog">Full Changelog</string>
+    <string name="ok">OK</string>
+    <string name="chooseUI">Choose Item UI</string>
+    <string name="ui">Interface</string>
+    <string name="back_title">Back navigation</string>
+    <string name="back_summary">Enables custom back navigation at top of the list</string>
+    <string name="details">Details</string>
+    <string name="translators">Translators</string>
+    <string name="zip_viewer">Zip Viewer</string>
+    <string name="unin_system_apk">This is a system app, deleting it might lead to system un-stability.\nProceed?</string>
+    <string name="warning">Warning</string>
+    <string name="donate">Donate</string>
+    <string name="archive_preferences">Archive Preferences</string>
+    <string name="archive_extract_folder">Archive Extract Folder</string>
+    <string name="zip_create_folder">Zip Create Folder</string>
+    <string name="archive_summary">Archive files will be extracted to this folder. Default value is the directory in which archive is present</string>
+    <string name="zip_summary">New zip files will be created in this folder. Default value is the directory in which files are present</string>
+    <string name="openas">Open As</string>
+    <string name="text">Text</string>
+    <string name="audio">Audio</string>
+    <string name="video">Video</string>
+    <string name="other">Other</string>
+    <string name="image">Image</string>
+    <string name="contributors">Contributors</string>
+    <string name="savepaths">Remember paths</string>
+    <string name="savepathsummary">When starting up,the most recently viewed folder for each tab will be displayed</string>
+    <string name="select_intent">Select</string>
+    <string name="drawer_text">Navigation Drawer example.</string>
+
+    <string name="ns_menu_main_header">Title</string>
+    <string name="ns_menu_main_header2">Title 2</string>
+
+    <string name="ns_menu_open">Navigation Drawer Open Menu</string>
+    <string name="ns_menu_close">Navigation Drawer</string>
+
+    <string name="ns_menu_setting1">Nastaveni</string>
+    <string name="ns_menu_about">O aplikaci</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="action_rscentra">Seznam RS center</string>
+    <string name="code_vision_loss">Pomalé zhoršování zraku na  jedno oko nebo centrální ztráta zraku po 1 nebo více dnů ,
+                                    které se nevyřeší  ani odpočinkem nebo spánkem.
+    </string>
+    <string name="code_double_vision">Vnímání dvou obrázků na  jednom objektu , horizontálně nebo vertikálně , které se objeví
+                                    při zakrytí jednoho oka.  Muže být presentováno samostatně nebo při potížích polykání, nevolnosti
+                                    a závratí.
+    </string>
+    <string name="code_weakness">Postupné tíže v jedné nebo obou končetinách , potíže při chůzi ( tažení jedné nohy )
+                                nebo použití jedné čí druhé paže (padající věci), může zahrnovat ruku a nohu na téže straně.
+    </string>
+
+    <string name="code_walking">Zhoršující se potíže při chůzi od tíže v jedné nebo
+                                obou nohou, mohou zahrnovat necitlivost nohy a potíže s močením.
+    </string>
+    <string name="code_vertigo">Nazývá se také vertigo, to je konstantní pocit nerovnováhy, která
+                                se může projevit častými pády a mohou být doprovázeny potížemi s polykáním
+                                nebo dvojitým viděním.
+    </string>
+    <string name="code_attack1"> Instrukce pro aplikaci MS AttackCz. </string>
+
+    <string name="code_attack2">Podívejte se na vlastnosti vývojového diagramu, každý šestiúhelník vám položí
+                                otázku,  červené kolečko budou mít různé odpovědi , jako možnosti.\n
+                                1. - Podívejte se na první otázku v modrém šestiúhelníku.\n
+                                2. - Stiskněte červené kolečko, které vám lépe odpoví na otázku.\n
+                                3. - Na nové obrazovce se podívejte znovu na první otázku v modrém šestiúhelníku.\n
+                                4. - Stiskněte červené kolečko s odpovědí, které platí i pro vaše příznaky.\n
+    </string>
+    <string name="code_attack3"> Příklad:  Jsou vaše příznaky přítomny po dobu alespoň 24 hodin.
+                                    Jestliže je to pravda, zmačkněte Ano a podívejte na otázky, které jsou
+                                    na obrazovce od shora-
+                                    Dále pokračujte jak bylo dříve uvedeno dokud
+    </string>
+
+    <string name="pseudeo_attack"> To není pravděpodobně opravdový attack. Je také nazýván jako pseudo zhoršení, je charakterizován
+                                   vzhledem nebo zhoršením neurologických příznaků v důsledku působení tepla ( jako je zahradničení
+                                   v horkém počasí ) , nebo vnitřní teplo (jako je cvičení ).
+                                   Horká sprcha nebo horká koupel  může také zhoršit neurologické příznaky.
+                                   Příkladem může být rozmazané vidění, které zmizí po ochlazení.\n
+
+     </string>
+
+    <string name="infectionyes">Příznaky MS se často zhoršují  přítomností jakéhokoliv typu infekce (nachlazení, močového měchýře , žaludku , kůže, atd.),
+                                  měly by se zlepšit po vyléčení infekce, pokud  to není tento případ, nebo si nejste jisti  zda jste se setkali s infekcí,
+                                  prosím, kontaktujte svého neurologa.\n
+
+     </string>
+
+    <string name="infectionno">To by mohlo být opětovné onemocnění.\n
+
+     </string>
+
+    <string name="namaha">Příznaky MS  se často zhoršují námahou, jako je cvičení, zvýšená pracovní zátěž, prázdniny, významný stres,
+                          by se měly postupně zlepšovat odpočínkem, ochlazováním, snížením aktivity.
+                          To může trvat několik dní odpočinku než se zotavite z této námahy.
+                          Pokud tomu tak není, nebo pokud si nejste jisti, že jste se setkali s následky námahy, prosím, kontaktujte svého neurologa.\n
+
+     </string>
+
+    <string name="code_no">Pokud je to jiné než opětovné onemocnění, zkuste to prosím znovu pokud příznaky přetrvávají po dobu > 24 hodin.\n
+     </string>
+    <string name="app_about">O aplikaci</string>
+    <string name="app_about_popis">Aplikace MSAttackCz vychází z app MS Attack od dr. Flavia Nelson a je přízpusobena na naše poměry.</string>
+
+
+    <string name="ns_menu_nastaveni">Nastavení</string>
+    <string name="ns_menu_snippet2">Snippet 2</string>
+    <string name="ns_menu_snippet3">Snippet 3</string>
+    <string name="title_activity_activity_procedure_list_new">activity_procedure_list_new</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="primary_color">Primary Color</string>
+    <string name="accent_color">Accent Color</string>
+    <string name="base_theme">Základní motiv </string>
+    <string name="base_theme_desc">Vyberte jaký chcete motiv světlý, tmavý nebo Amoled černý..</string>
+
+
+
+</resources>
